@@ -7,3 +7,13 @@ docker-compose up
 ```
 node server.js
 ```
+
+# Stop
+```
+docker-compose down
+```
+
+# Cleanup
+```
+docker-compose rm -v
+```
